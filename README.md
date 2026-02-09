@@ -1,6 +1,4 @@
-# 🏥 AI Medical Assistant Chatbot — RAG-based Application
-
-![Medical Assistant](./assets/medicalAssistant.png)
+# 🏥 AI Medical Assistant Chatbot — RAG-based Application   
 
 ---
 
