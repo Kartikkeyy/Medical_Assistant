@@ -282,28 +282,4 @@ PINECONE_INDEX_NAME=medicalindex1
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## ⚠️ Disclaimer
-
-This application is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with any questions regarding medical conditions.
-
----
-
-## 📬 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
----
-
-**Built with ❤️ using LangChain, FastAPI, and Streamlit**
